@@ -3,6 +3,7 @@ Broadcast from your computer mp3 files.
 
 Allows broadcast online your mp3 files. Only PHP. No MySQL.
 You can listen stream on a computer, smartphone, TV set-top box, internet-receiver.
+Can be used on older computers. Works great on computer CPU - 900 MHz, RAM - 512 Mb. 
 
 Requirements: 
 Ubuntu 12.04+, Apache2, php5.3 or php7
