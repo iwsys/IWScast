@@ -13,7 +13,9 @@ Ubuntu 12.04+, Apache2, php5.3 or php7
 Everything is now ready to go.
 
 In folder Music script for Random play files.
+
 In folder Podcast script for play of podcast. Script remembers the last file. The next time you turn it on, it plays the next track. 
+
 You can set the desired track in file counter.dat. 
 
 
