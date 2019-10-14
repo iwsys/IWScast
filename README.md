@@ -19,4 +19,5 @@ In folder Podcast script for play of podcast. Script remembers the last file. Th
 
 You can set the desired track in file counter.dat for listening.
 
+![Screenshot](karadio.png)
 
