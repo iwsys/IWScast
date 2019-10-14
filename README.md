@@ -17,7 +17,8 @@ In folder Music script for Random play files.
 
 In folder Podcast script for play of podcast. Script remembers the last file. The next time you turn it on, it plays the next track. 
 
-You can set the desired track in file counter.dat for listening. 
+You can set the desired track in file counter.dat for listening. The script has a log that displays the listened files.
+
 I am using an internet receiver KA-Radio32.
 https://github.com/karawin/Ka-Radio32
 
