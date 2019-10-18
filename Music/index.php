@@ -7,8 +7,6 @@ header("icy-br: 128 ");
 header("icy-name: your name");
 header("icy-description: your description"); 
 
-$dirPath = "";
-
 $files = glob("*.mp3");
 shuffle($files); //Random on
 
