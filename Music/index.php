@@ -1,11 +1,11 @@
 <?php
 set_time_limit(0);
 header('Content-type: audio/mpeg');
-header ("Content-Transfer-Encoding: binary");
-header ("Pragma: no-cache");
-header ("icy-br: 128 ");
-header ("icy-name: your name");
-header ("icy-description: your description"); 
+header("Content-Transfer-Encoding: binary");
+header("Pragma: no-cache");
+header("icy-br: 128 ");
+header("icy-name: your name");
+header("icy-description: your description"); 
 
 $dirPath = "";
 
