@@ -25,7 +25,7 @@ if(file_exists($filename)){
 
 if ($counter >= count($files)) $counter=0;
 $filecounter = $counter;
- header ("icy-description: ".$files[$counter]);
+ header("icy-description: ".$files[$counter]);
  header("icy-notice1: Time start ".date("H:i:s"));
  header("icy-notice2: Track ".++$filecounter." from ".count($files));
 
