@@ -17,8 +17,8 @@ for ($x=0; $x < count($files);) {
    array(
      'http'=>array(
        'method' =>'GET',
-       'header' => 'Icy-MetaData: 1',
-       'header' =>"Accept-language: en\r\n"
+       'header' =>'Icy-MetaData: 1',
+       'header' =>'Accept-language: en\r\n'
        )
      )
    );
